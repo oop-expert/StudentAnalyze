@@ -20,7 +20,7 @@ public class VkRepository {
 
     private final int APP_ID = 51507062;
 
-    private final String CODE = "vk1.a.PF0lCcsYlrMroQwzZbUqq_vniGRiO4M8k_oBq2XMALwja7O-28Q5Mvh1LKWh4u3EcPE3YEtXQ3cWRQH5T1alSeFvxAp4zhiAHZjqRZZI4BqOTcGHG9Cxs-cqmKoLsFk3MRs8ZNmX0npb8k8cWDV0v4SN7dmYjAHMtD-MBJSmL8BDrZQudB3mjEw0nqcblZ1Z";
+    private final String CODE = "vk.code";
     private final VkApiClient vk;
     private final UserActor actor;
 
